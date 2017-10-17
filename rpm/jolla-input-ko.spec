@@ -41,6 +41,7 @@ rm -rf %{buildroot}
 /usr/share/maliit/plugins/com/jolla/layouts/ko_cheonjiin.qml
 /usr/share/maliit/plugins/com/jolla/layouts/ko_cheonjiin_plus.qml
 /usr/share/maliit/plugins/com/jolla/layouts/ko_simple.qml
+/usr/share/maliit/plugins/com/jolla/layouts/ko_simple_plus.qml
 /usr/share/maliit/plugins/com/jolla/layouts/ko.conf
 /usr/share/maliit/plugins/com/jolla/layouts/ko_common/KoInputHandler.qml
 /usr/share/maliit/plugins/com/jolla/layouts/ko_common/KoCheonNaratInputHandler.qml
